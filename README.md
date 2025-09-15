@@ -19,4 +19,4 @@
 - cd frontend
 - npm install
 - npm run dev
-# env variables — see admin/.env.example
+# env variables — see frontend/.env.example
